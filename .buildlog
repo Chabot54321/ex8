@@ -1,0 +1,260 @@
+---
+build.dart --machine --full
+
+build.dart finished [881 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [887 ms]
+
+---
+build.dart --machine --removed=web\clickcounter.dart --removed=web\clickcounter.html --removed=web\ex8.css --re...
+
+build.dart finished [784 ms]
+
+---
+build.dart --machine --changed=web\my_app.dart
+
+build.dart finished [782 ms]
+
+---
+build.dart --machine --changed=web\my_app.html
+
+build.dart finished [858 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+
+build.dart finished [864 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [866 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [934 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+
+build.dart finished [869 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart --changed=web\my_app.dart --changed=web\my_app.html --changed=...
+
+build.dart finished [1053 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [996 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [971 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [1052 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [1018 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1030 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+
+build.dart finished [1001 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [964 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart --changed=web\web_contacts.html
+
+build.dart finished [1018 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1025 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+
+build.dart finished [1003 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1031 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1123 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1031 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1078 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag tr. Ignored.","line":52,"charStart":1268,"charEnd":1272}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":53,"charStart":1277,"charEnd":1301}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":53,"charStart":1317,"charEnd":1322}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":54,"charStart":1327,"charEnd":1351}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":54,"charStart":1368,"charEnd":1373}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":55,"charStart":1378,"charEnd":1402}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":55,"charStart":1419,"charEnd":1424}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":56,"charStart":1429,"charEnd":1433}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":59,"charStart":1605,"charEnd":1610}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (tr). Ignored.","line":60,"charStart":1615,"charEnd":1620}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag tr. Ignored.","line":52,"charStart":1268,"charEnd":1272}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":53,"charStart":1277,"charEnd":1301}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":53,"charStart":1317,"charEnd":1322}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":54,"charStart":1327,"charEnd":1351}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":54,"charStart":1368,"charEnd":1373}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":55,"charStart":1378,"charEnd":1402}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":55,"charStart":1419,"charEnd":1424}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":56,"charStart":1429,"charEnd":1433}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":59,"charStart":1605,"charEnd":1610}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (tr). Ignored.","line":60,"charStart":1615,"charEnd":1620}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag tr. Ignored.","line":52,"charStart":1268,"charEnd":1272}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":53,"charStart":1277,"charEnd":1301}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":53,"charStart":1317,"charEnd":1322}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":54,"charStart":1327,"charEnd":1351}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":54,"charStart":1368,"charEnd":1373}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":55,"charStart":1378,"charEnd":1402}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":55,"charStart":1419,"charEnd":1424}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected start tag td. Ignored.","line":56,"charStart":1429,"charEnd":1433}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (td). Ignored.","line":59,"charStart":1605,"charEnd":1610}}]
+[{"method":"warning","params":{"file":"web/web_contacts.html","message":"Unexpected end tag (tr). Ignored.","line":60,"charStart":1615,"charEnd":1620}}]
+build.dart finished [1042 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [976 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1126 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.dart
+
+build.dart finished [1044 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1023 ms]
+
+---
+build.dart --machine --changed=web\web_contacts.html
+
+build.dart finished [1037 ms]
+
+---
+build.dart --machine --changed=web\my_app.html
+
+build.dart finished [1024 ms]
+
+---
+build.dart --machine --changed=web\polymer_contacts.html
+
+build.dart finished [964 ms]
+
+---
+build.dart --machine --changed=web\css\img\arrow-right.gif --changed=web\css\img\target.gif --changed=web\css\l...
+
+build.dart finished [1261 ms]
+
+---
+build.dart --machine --changed=web\my_app.html
+
+build.dart finished [1341 ms]
+
+---
+build.dart --machine --changed=web\my_app.html
+
+build.dart finished [1330 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+
+build.dart finished [1240 ms]
+
+---
+build.dart --machine --changed=web\my_app.dart
+
+build.dart finished [1320 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Unhandled exception:
+Syntax error on line 5, column 15: invalid YAML in plain scalar
+#0      Parser.parseFailed (package:yaml/src/parser.dart:426:5)
+#1      Parser.l_yamlStream (package:yaml/src/parser.dart:1871:34)
+#2      loadYamlStream (package:yaml/yaml.dart:77:39)
+#3      loadYaml (package:yaml/yaml.dart:62:30)
+#4      readCurrentPackageFromPubspec (package:polymer/src/build/runner.dart:76:18)
+#5      lint (package:polymer/builder.dart:153:77)
+#6      build (package:polymer/builder.dart:121:14)
+#7      main (file:///C:/Users/Thomas/Thomas/ex8/build.dart:4:8)
+#8      _startIsolate.isolateStartHandler (dart:isolate-patch/isolate_patch.dart:188)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:93)
+build.dart finished [303 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [963 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [952 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+
+build.dart finished [967 ms]
+
+---
+build.dart --machine --changed=lib\contacts.dart
+
+build.dart finished [1038 ms]
+
+---
+build.dart --machine --changed=lib\model\contact_entities.dart
+
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=lib\model\contact_model.dart
+
+build.dart finished [925 ms]
+

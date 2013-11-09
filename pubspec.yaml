@@ -1,0 +1,8 @@
+name: ex8
+description: A sample Polymer application
+dependencies:
+  dartlero: any
+  polymer: any
+transformers:
+- polymer:
+    entry_points: web/ex8.html
